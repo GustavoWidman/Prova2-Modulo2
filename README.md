@@ -4,6 +4,8 @@
 
 Esse projeto é uma CLI que detecta faces em um vídeo e desenha um retângulo em volta de cada face detectada. A CLI foi feita em Python e utiliza a biblioteca OpenCV para a detecção de faces.
 
+[usage.webm](https://github.com/GustavoWidman/Prova2-Modulo2/assets/123963822/efa9ab99-9440-4be6-a211-c64e5fd03b46)
+
 ## Perguntas Técnicas
 
 ### 1. Descreva o funcionamento do método de detecção escolhido
@@ -82,6 +84,12 @@ Esse comando mostrara a utilização básica da CLI.
 
 Segue o video de demonstração da CLI, além do video de entrada e saída utilizados no video de demonstração.
 
+![la_cabra](https://github.com/GustavoWidman/Prova2-Modulo2/assets/123963822/aada0b73-63b4-4cbf-836f-4c73a621d902)
+
+[usage.webm](https://github.com/GustavoWidman/Prova2-Modulo2/assets/123963822/efa9ab99-9440-4be6-a211-c64e5fd03b46)
+
+![output](https://github.com/GustavoWidman/Prova2-Modulo2/assets/123963822/e3c98487-4de4-423d-b92f-3f59e7ef4e24)
+
 ## Exemplos
 
 Aqui estão alguns exemplos de como você pode usar a CLI:
@@ -95,3 +103,5 @@ $ python3 src/main.py la_cabra.mp4 la_cabra_recog.mp4
 ## License
 
 Esse projeto é licenciado sob a licença CC0 1.0 Universal - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+[usage.webm](https://github.com/GustavoWidman/Prova2-Modulo2/assets/123963822/bb43e404-4eb8-4859-854f-8226944e29d0)
+![usage](https://github.com/GustavoWidman/Prova2-Modulo2/assets/123963822/51a98c07-3ba8-44ce-bfb0-8b46eabf498e)
