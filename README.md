@@ -4,7 +4,7 @@
 
 Esse projeto é uma CLI que detecta faces em um vídeo e desenha um retângulo em volta de cada face detectada. A CLI foi feita em Python e utiliza a biblioteca OpenCV para a detecção de faces.
 
-![usage](https://github.com/GustavoWidman/Prova2-Modulo2/assets/123963822/ad305ee4-325c-43b6-b200-2a53fe3202eb)
+![usage](https://github.com/GustavoWidman/Prova2-Modulo2/assets/123963822/3f921dcd-c729-4b06-af65-9204cbdd9b3d)
 
 ## Perguntas Técnicas
 
@@ -86,7 +86,7 @@ Segue o video de demonstração da CLI, além do video de entrada e saída utili
 
 ![la_cabra](https://github.com/GustavoWidman/Prova2-Modulo2/assets/123963822/aada0b73-63b4-4cbf-836f-4c73a621d902)
 
-![usage](https://github.com/GustavoWidman/Prova2-Modulo2/assets/123963822/ad305ee4-325c-43b6-b200-2a53fe3202eb)
+![usage](https://github.com/GustavoWidman/Prova2-Modulo2/assets/123963822/3f921dcd-c729-4b06-af65-9204cbdd9b3d)
 
 ![output](https://github.com/GustavoWidman/Prova2-Modulo2/assets/123963822/e3c98487-4de4-423d-b92f-3f59e7ef4e24)
 
